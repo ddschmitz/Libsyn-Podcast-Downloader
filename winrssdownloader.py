@@ -38,3 +38,4 @@ for i in range(0, 10):
 print "\tAll of the MMPodcasts posted to billburr.libsyn.com should be downloaded."
 print "\tRunning this script again will download any new podcasts and skip over"
 print "\tones you already have.\n\n"
+hold = raw_input()
