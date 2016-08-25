@@ -1,7 +1,3 @@
-#   Author: Darrin Schmitz
-#   Date: 3/19/2016
-
-
 from bs4 import BeautifulSoup
 import urllib
 import os
