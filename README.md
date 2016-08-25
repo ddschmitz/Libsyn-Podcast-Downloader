@@ -17,13 +17,3 @@ Requires [BeautifulSoup](http://www.crummy.com/software/BeautifulSoup/bs4/doc/)
 ######Windows
 
 Just run windownloader.exe (source code for the .exe is `windownloader.py` and was made using [pyinstaller](http://www.pyinstaller.org/)). 
-
-## Download from RSS feed.
-
-######Linux
-
-`python rssdownloader.py`
-
-######Windows
-
-Just run winrssdownloader.exe (source code for the .exe is `winrssdownloader.py` and was made using [pyinstaller](http://www.pyinstaller.org/)). 
